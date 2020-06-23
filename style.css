@@ -124,3 +124,19 @@ svg{
   }
 
 }
+
+@media all and (max-width:950px) {
+  body{
+    padding:10px;
+    line-height:inherit;
+  }
+  .header-title-main{
+    font-size: 35px;
+  }
+  .header-title-sb{
+    letter-spacing: 11px;
+  }
+  .profile-picture{
+    width:70%;
+  }
+}
