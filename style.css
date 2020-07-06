@@ -53,7 +53,7 @@ body{
 }
 .profile-picture{
   width: 30%;
-  clip-path:circle(34% at 52% 50%)
+  border-radius:50%;
 }
 .description{
   color: #fff;
