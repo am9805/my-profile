@@ -135,8 +135,18 @@ svg{
   }
   .header-title-sb{
     letter-spacing: 11px;
+    font-size: 27px;
   }
   .profile-picture{
-    width:70%;
+    width:50%;
+  }
+  .header-container-social {
+    padding: 1rem 0;
+  }
+  .description {
+    font-size: 11px;
+  }
+  br{
+    display: none;
   }
 }
